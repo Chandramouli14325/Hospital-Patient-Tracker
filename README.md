@@ -218,7 +218,6 @@ This records a payment of 700 for bill ID 1, provided the payment is valid and d
 The Hospital Patient Tracker demonstrates how MySQL can organize hospital records and support appointment scheduling, admission tracking, and billing operations. It provides a foundation for developing a complete hospital management application with a frontend and backend.
 
 ## Author Details
-
-- **Name:**
-- **Domain:** 
-- **Internship ID:** 
+- **Name:** KURUBA CHANDRAMOULI 
+- **Domain:** SQL
+- **Internship ID:** CITS9354
